@@ -11,24 +11,21 @@ print("Nama",Nama)
 print("NIM:",NIM)
 print("NIlai Akhir:",NA)
 if NA>=80:
-    print(Nama,"Dapat Grade A")
+    print("Dapat Grade A")
     print("="*25)
 else:
     if NA>=70:
-       print(Nama,"Dapat Grade B")
+       print("Dapat Grade B")
        print("="*25)
     else:
         if NA>=60:
-          print(Nama,"Dapat Grade C")
+          print("Dapat Grade C")
           print("="*25)
         else:
             if NA>=50:
-                print(Nama,"Dapat Grade D")
+                print("Dapat Grade D")
                 print("="*25)
             else:
                 if NA<50:
-                    print(Nama,"Dapat Grade E")
+                    print("Dapat Grade E")
                     print("="*25) 
-
-
- 
